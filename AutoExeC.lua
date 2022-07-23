@@ -10,9 +10,9 @@ local scriptUrl = ({
     [8737602449] = "https://raw.githubusercontent.com/KoaIaKea/KoaIaKea/main/README.md",
     
     --AntiAfk
-    [6284583030] = "https://raw.githubusercontent.com/KoaIaKea/KoaIaKea/main/AntiAfk.lua"
+    [6284583030] = "https://raw.githubusercontent.com/KoaIaKea/KoaIaKea/main/AntiAfk.lua",
     --AntiAfk
-    [8737602449] = "https://raw.githubusercontent.com/KoaIaKea/KoaIaKea/main/AntiAfk.lua"
+    [8737602449] = "https://raw.githubusercontent.com/KoaIaKea/KoaIaKea/main/AntiAfk.lua",
     --AntiAfk
     [9551640993] = "https://raw.githubusercontent.com/KoaIaKea/KoaIaKea/main/AntiAfk.lua"
     
